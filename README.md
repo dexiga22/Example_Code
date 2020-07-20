@@ -1,2 +1,2 @@
-# Example_Code
+# Example Code
 Some Example Code Projects
